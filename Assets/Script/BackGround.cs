@@ -1,4 +1,4 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
 public class BackGround : MonoBehaviour
 {
@@ -7,7 +7,7 @@ public class BackGround : MonoBehaviour
     
     void Start()
     {
-        // ¸ÓÅÍ¸®¾ó °¡Á®¿À±â
+        // ë¨¸í„°ë¦¬ì–¼ ê°€ì ¸ì˜¤ê¸°
         material = GetComponent<Renderer>().material;
     }
 
